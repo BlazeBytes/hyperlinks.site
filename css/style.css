@@ -107,6 +107,7 @@ main details a{
     body{
         position: relative;
         background-image: url("/res/img/bg/noisy_grid_blue.png");
+        background-color: rgb(0, 74, 119);
     }
 
     main{
